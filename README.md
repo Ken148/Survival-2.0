@@ -4,6 +4,10 @@ A simple **Unity-based crafting and survival game** where players can gather res
 
 ---
 
+![Screenshot 23:38:05](https://raw.githubusercontent.com/Ken148/Survival-2.0/main/Posnetek%20zaslona%202026-03-14%20233805.png)
+
+![Screenshot 23:38:26](https://raw.githubusercontent.com/Ken148/Survival-2.0/main/Posnetek%20zaslona%202026-03-14%20233826.png)
+
 ## Features
 
 - 🌳 **Resource Gathering:** Chop down trees to collect logs and rocks.  
